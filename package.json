@@ -1,0 +1,10 @@
+{
+  "name": "PP-lab",
+  "version": "1.0.0",
+  "main": "math.js",
+  "author": "Ivan Burlakov <burlakovv.ivan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^7.5.0"
+  }
+}
