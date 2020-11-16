@@ -1,5 +1,5 @@
 {
-  "name": "PP-lab",
+  "name": "nodejs-parallel-example",
   "version": "1.0.0",
   "main": "math.js",
   "author": "Ivan Burlakov <burlakovv.ivan@gmail.com>",
